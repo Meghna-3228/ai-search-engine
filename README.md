@@ -4,11 +4,13 @@ An AI-powered search &amp; exploration tool. Features neural-symbolic reasoning,
 Welcome to the AI-Powered Search Engine! This isn't your average search tool. It's a smart, context-aware engine designed to understand what you really mean and give you trustworthy, relevant results.
 
 What's This All About?
+
 Ever feel like you're fighting with a search engine, trying endless combinations of words just to find that one thing you're looking for? This project was built to fix that!
 
 Traditional search engines are good at matching keywords, but they often miss the real meaning and context behind your search. Our goal is to bridge the gap between what you're thinking and the results you get. We're making search more intuitive, personalized, and reliable.
 
 Key Features
+
 This search engine is packed with cool features that make it stand out:
 
 Neural-Symbolic Reasoning: Combines the pattern-recognition power of neural networks with the precision of symbolic logic. This means it can understand complex queries like "tech companies with female CEOs and growing revenue."
