@@ -1,0 +1,18 @@
+# Core dependencies
+streamlit
+pandas
+numpy
+plotly
+pyyaml
+altair	# Added altair (specify appropriate version)
+
+# API clients
+cohere
+openai   # Updated openai version
+anthropic
+httpx   # Added httpx (specify appropriate version)
+
+# Other
+streamlit-bokeh-events bokeh
+python-dotenv
+requests
