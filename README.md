@@ -29,7 +29,7 @@ Make sure you have Python 3.8+ installed on your system. You'll also need a pack
 2. Installation
 Clone the repository to your local machine:
 
-git clone 
+git clone https://github.com/Meghna-3228/ai-search-engine.git
 cd ai-search-engine
 
 Install all the necessary Python packages.
@@ -55,8 +55,4 @@ Your browser should open a new tab with the running application. Have fun search
 Screenshots
 Here’s a sneak peek of what the app looks like in action!
 
-Main Search Page
-
-Settings and History
-
-Search Results and Sources
+<img width="979" height="442" alt="Picture1" src="https://github.com/user-attachments/assets/5c014ad3-ce88-4074-a087-c7344c66346c" />
